@@ -1,0 +1,5 @@
+{
+  "name": "AI Stock Analyst",
+  "description": "An AI-powered application that identifies promising stocks based on user interests, analyzes their growth potential, and summarizes recent public sentiment using the Gemini API.",
+  "requestFramePermissions": []
+}
